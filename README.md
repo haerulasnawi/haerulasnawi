@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @haerulasnawi
 - 👀 I’m interested in new technologi
 - 🌱 I’m currently learning go
-- 💞️ I’m looking to collaborate on laravel project
+- 💞️ I’m looking to collaborate on svelte project
 - 📫 How to reach me haerul.asnawi.ha@gmail.com
 
 <!---
